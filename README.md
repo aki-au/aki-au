@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aki-au
+- 👋 Hi, I’m Alakarthika, you can call me A.K or Aki!
 - 👀 I’m interested in Data Science
-- 🌱 I’m going to study my masters 
+- 🌱 I’m currently interested in R and Python
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : Email
 
