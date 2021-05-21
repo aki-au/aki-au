@@ -3,7 +3,7 @@
 - 🌱 I’m currently interested in R and Python
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : Email
-- 🐕 I have 2 dogs: Cookie (a cat in a dog's body) and Pattu(the one in my profile picture). 
+- 🐕 I have 2 dogs: Cookie(a cat in a dog's body) and Pattu(the one in my profile picture). 
 
 <!---
 aki-au/aki-au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
