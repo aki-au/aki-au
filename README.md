@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently interested in R and Python
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me : Email
+- 📫 How to reach me : aulagan1@jhu.edu
 - 🐕 I have 2 dogs: Cookie(a cat in a dog's body) and Pattu(the one in my profile picture). 
 
 <!---
