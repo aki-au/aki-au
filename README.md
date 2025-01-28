@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Alakarthika, you can call me A.K or Aki!
+- 💻 My website: https://aki-au.github.io/
 - 👀 I mainly focus on machine learning and its associated subjects now :)
 - 🌱 I’m currently interested in statistical machine learning!
 - 💞️ I’m looking to collaborate on interesting projects
