@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alakarthika, you can call me A.K or Aki!
 - 💻 My website: https://aki-au.github.io/
-- 👀 I like to explore ideas in ML/data and then build tools around them, mixing ML/data with my personal interests.
+- 👀 I like to explore ideas in ML/data and then build tools mixing them with my personal interests!
 - 🌱 I’m currently interested in statistical machine learning!
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : alakarthika01@gmail.com (My LinkedIn is: https://www.linkedin.com/in/alakarthika/)
