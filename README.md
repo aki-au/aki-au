@@ -4,7 +4,7 @@
 - 🌱 I’m currently interested in statistical machine learning!
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : alakarthika01@gmail.com (My LinkedIn is: https://www.linkedin.com/in/alakarthika/)
-- 🐕 I have 3 dogs: Cookie(a cat in a dog's body), Pattu(professional snake-spotter and the one in my profile picture) and Chinna(a vacuum cleaner in dog form). 
+- 🐕 I have 3 dogs: Cookie(a cat in a dog's body), Pattu(professional snake-spotter and the one in my profile picture), Chinna(a vacuum cleaner in dog form) and Cicero(manager at the cardboard shredding factory).
 
 <!---
 aki-au/aki-au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
