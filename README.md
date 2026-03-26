@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Alakarthika, you can call me A.K or Aki!
 - 💻 My website: https://aki-au.github.io/
 - 👀 I like to explore ideas in ML/data and then build tools mixing them with my personal interests!
-- 🌱 I’m currently interested in statistical machine learning!
-- 💞️ I’m looking to collaborate on interesting projects
+- 🌱 I’m currently interested in statistical machine learning.
 - 📫 How to reach me : alakarthika01@gmail.com (My LinkedIn is: https://www.linkedin.com/in/alakarthika/)
 - 🐕 I have 4 dogs: Cookie(a cat in a dog's body), Pattu(professional snake-spotter and the one in my profile picture), Chinna(a vacuum cleaner in dog form), and Cicero(manager at the cardboard shredding factory).
 
